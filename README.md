@@ -1,3 +1,3 @@
 # arduino
 ### Exemplos de arduino
-> servo.ino 
+> servo.ino -> Exemplo de uso da biblioteca Servo.h
